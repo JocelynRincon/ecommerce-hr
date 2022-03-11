@@ -1,0 +1,62 @@
+import React from "react";
+import { data } from "../data/data";
+
+const Card = () => {
+  const cardItem1 = () =>{
+    window.location.href="/Card"
+  }
+  const cardItem = (item) => {
+    return (
+      <div className="card" style={{ width: "18rem" }} key={item.id} >
+        <img src={item.img} className="card-img-top" alt="..." width="250px" height="250px" />
+        <div className="card-body">
+        <p className="card-text"> {item.name} </p>  
+        <p className="card-text"> {item.info} </p>
+          <h5 className="card-title">{item.price} </h5>
+          <button className="btn btn-primary" 
+          onClick={ cardItem1}  
+          >Añadir al carrito</button>
+        </div>
+      </div>
+    );
+  };
+  return (
+    <div>
+      <div className="container py-5">
+        {" "}
+        {/*clase de bootstrap*/}
+        <div className="row">
+          <div className="mb-4 col-md-4 col-lg-3 col-sm-12"> {/*las pantallas maximo manejan 12 columnas, esto ayudará al responsive*/}
+            <h1> Productos</h1>
+          </div>
+        </div>
+      </div>
+      <div className="container">
+        <div className="row justify-content-center">{data.map(cardItem)}</div>
+      </div>
+    </div>
+  );
+};
+
+export default Card;
+
+
+
+whatsapp https://api.whatsapp.com/send?phone=573183670857&text=Hello,%20this%20is%20a%20UberDate%20message 
+
+
+const Home= () => {
+  const [items, setItems] = useState(Data.productData);
+  const filterItem = (categItem) => {
+    const updatedItems = Data.productData.filter((curElem) => {
+      return curElem.category === categItem;
+    });
+    if (updatedItems == null) {
+      setItems(null);
+    }
+    setItems(updatedItems);
+  };
+
+  return (
+    <>
+      <h1 className="mt-5 text-center main-h

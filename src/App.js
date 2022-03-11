@@ -6,7 +6,6 @@ import Menu from './components/Menu';
 import Cart from './container/Cart';
 import { CartProvider } from "react-use-cart";
 import Home from './container/Home'
-/*import { Card } from 'reactstrap';*/
 
 
 
@@ -19,7 +18,6 @@ function App() {
       <Navbar/>
       <Header/>
       <Home/>
-      
       <Cart/>
       <Footer/>
       </CartProvider>
