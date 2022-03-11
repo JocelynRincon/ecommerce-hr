@@ -27,7 +27,7 @@ const Cart = () => {
             <tbody>
               {items.map((item, id) => {
                 return (
-                  <tr key={id}>
+                  <tr className="d-flex flex-wrap" key={id}>
 
                     <td>
                       <img src={item.img} style={{ height: '6rem' }} alt='product' />
