@@ -1,3 +1,49 @@
+
+Ecommerce- un cliente real
+
+Context: Crear un desarrollo en React para un negocio real de nuestro sector y/o el emprendimiento de un amigo o familiar, el cual será una interfaz interactiva que reciba los inputs del usuario y se los entregue al dueño del comercio como un pedido digital. Debe contar con un carrito de compra con la funcionalidad de al finalizar el pedido, el establecimiento debe recibirlo a través de WhatsApp. Este proyecto debe usar la estrategia mo
+
+Content: Este proyecto tiene dos ramas: main y dev; la main contiene el proyecto finalizado y la dev contiene el desarrollo de cada parte del ecommerce.
+
+Documentation: 
+El proyecto está realizado con:
+HTML
+CSS
+Javascript
+React 
+Bootstrap 
+Responsive desing
+
+
+State of project: funcionalidad de carrito de compras completo, además los requerimientos establecidos en el proyecto están disponibles.
+
+How install:
+git clone https://github.com/JocelynRincon/ecommerce-hr.git
+
+Preview:
+
+
+
+Author: Jocelyn Rincón Barceló.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
