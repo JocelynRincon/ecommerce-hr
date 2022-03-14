@@ -32,6 +32,10 @@ Preview:
 ![image](https://user-images.githubusercontent.com/97619450/158103170-6b956f67-774c-4c99-9188-1f3dea5ac5da.png)
 
 
+
+Deploy: Si quieres ver el proyecto finalizado, haz click aquí: https://naughty-banach-fe5aa9.netlify.app/
+
+
 Author: Jocelyn Rincón Barceló.
 
 
