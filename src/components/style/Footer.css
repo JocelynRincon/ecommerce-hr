@@ -1,0 +1,44 @@
+@media screen and (min-width: 360px) {
+    .icons{
+        display: flex;
+        gap: 1.4rem;
+           }
+
+           .foot{
+               font-size: 0.7rem;
+           }
+    
+}
+
+
+
+
+@media screen and (min-width: 834px) {
+
+
+.foot{
+    display: flex;
+    font-size: 1.8rem;
+    text-align: center;  
+}
+.icons{
+    display: flex;
+    gap: 6rem;
+   
+}
+
+    
+}
+
+@media screen and ( min-width: 1024px) {
+.icons{
+    gap:8rem;
+    display: flex;
+    right: 50%;
+    left: 50%;
+
+}
+
+
+
+}

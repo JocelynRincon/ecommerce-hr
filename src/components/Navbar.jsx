@@ -19,6 +19,7 @@ const navbar = () => {
     >
       <img style={{
         width:"20%",
+        
       
         // height:"auto",
       }}  src={logo} alt="" />

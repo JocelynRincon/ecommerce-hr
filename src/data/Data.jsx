@@ -41,7 +41,7 @@ productData:[
     },  
     {     
         "img": "../assets/images/ejemplo/reja.jpg",
-        "title": "Reja exterior",
+        "title": "Reja Ventana",
         "desc": "Reja color Blanco en aluminio, medidas:2mtX1.7mt",
         "price": 270000,
         "id" : 4,
@@ -49,7 +49,7 @@ productData:[
     },
     {
         "img": "../assets/images/ejemplo/rejaprin.jpg",
-        "title": "Reja exterior",
+        "title": "Reja Exterior",
         "desc": "Reja color Blanco en aluminio, medidas:0.9mtX1.8mt",
         "price": 100000,
         "id" : 5,
@@ -58,8 +58,8 @@ productData:[
     
     {
         "img": "../assets/images/ejemplo/rejaprinc.jpg",
-        "title": "reja exterior",
-        "desc": "reja modelo bocadillo, medidas:1.8mtX1.9",
+        "title": "Reja Exterior",
+        "desc": "Reja modelo bocadillo, medidas:1.8mtX1.9",
         "price": 250000,
         "id" : 6,
         "category": "grate"
@@ -67,16 +67,16 @@ productData:[
 
     {
         "img": "../assets/images/ejemplo/rejaprincipal.jpg",
-        "title": "reja exterior",
-        "desc": "Reja exterior, color:gris, medidas:2.4mtX2mt",
+        "title": "Reja Exterior",
+        "desc": "Reja Exterior, color:gris, medidas:2.4mtX2mt",
         "price": 450000,
         "id" : 7,
         "category": "grate"
     },
     {
         "img": "../assets/images/ejemplo/venatana.jpg",
-        "title": "ventana exterior",
-        "desc": "ventana tipo pañal, color:blanco, medidas:2mtX0.8mt",
+        "title": "Ventana Exterior",
+        "desc": "Ventana tipo pañal, color:blanco, medidas:2mtX0.8mt",
         "price": 200000,
         "id" : 8,
         "category": "window"
@@ -84,23 +84,23 @@ productData:[
     {
         "img": "../assets/images/ejemplo/venhor.jpeg",
         "title": "Ventana interior",
-        "desc": "ventanal para balcones o patios, medidas:2mtX1.7mt",
+        "desc": "Ventanal para balcones o patios, medidas:2mtX1.7mt",
         "price": 275000,
         "id" : 9,
         "category": "window"
     },
     {
         "img": "../assets/images/ejemplo/vent.jpg",
-        "title": "ventana exterior",
-        "desc": "ventana exterior, color:blanco, medidas:1.8mtX1mt",
+        "title": "Ventana Exterior",
+        "desc": "Ventana Exterior, color:blanco, medidas:1.8mtX1mt",
         "price": 250000,
         "id" : 10,
         "category": "window"
     },
     {
         "img": "../assets/images/ejemplo/venta.jpg",
-        "title": "ventana pañal",
-        "desc": "ventana exterior color:blanco, medidas:1.6mtX1mt",
+        "title": "Ventana pañal",
+        "desc": "Ventana Exterior color:blanco, medidas:1.6mtX1mt",
         "price": 270000,
         "id" : 11,
         "category": "window"
