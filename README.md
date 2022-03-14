@@ -21,7 +21,15 @@ How install:
 git clone https://github.com/JocelynRincon/ecommerce-hr.git
 
 Preview:
+![home](https://user-images.githubusercontent.com/97619450/158102707-de74f2c8-7ee4-4c27-8c90-6041a0b8e6b3.png)
 
+![produc](https://user-images.githubusercontent.com/97619450/158102740-2980c5aa-4d30-4f38-af68-48a9fbb35c91.png)
+
+![productos](https://user-images.githubusercontent.com/97619450/158102942-5c086964-22f9-4aee-9d18-00f88f8a6293.png)
+
+![carrito](https://user-images.githubusercontent.com/97619450/158103002-404cc9b3-b46e-4588-8b77-8456c337c749.png)
+
+![image](https://user-images.githubusercontent.com/97619450/158103170-6b956f67-774c-4c99-9188-1f3dea5ac5da.png)
 
 
 Author: Jocelyn Rincón Barceló.
