@@ -3,21 +3,7 @@ import '../components/style/Footer.css'
 
 const footer = () => {
     return (
-        <div className="footer"
-        style={{
-            backgroundColor: "rgb(1, 34, 60)",
-            color: "white",
-            display:"flex",
-            alignItems:"center",
-            padding:"15px",
-            gap:"4rem",
-            width:"100%",
-            height:"10vh",
-            fontSize:"0.8rem",
-    
-            
-          }}
-        >
+        <div id="footer" className="footer">
             <p className="foot" > HR CONSTRUCCIONES 2022</p>
             <div className="icons">
             <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" className="bi bi-facebook">

@@ -5,16 +5,14 @@ import '../container/style/Header.css'
 
 const header = () => {
   return (
-    <div 
+    <div id='header'
         style={{width:"100%", display:"flex", justifyContent:"center", 
-        alignContent:"center", alignItems:"center", overflow:"hidden"}}
+          overflow:"hidden" }}
     > 
-            <h2 className="text" style={{color:"white", position:"absolute", display:"flex",
-             
-            textAlign:"center", }}>
+            <h2 className="text">
               ¡Nuestro arte es hacer del Aluminio, parte de tu vida!</h2>
 
-        <img className="logo" style={{width:"100%", height:"75vh", display:"flex", 
+        <img className="logo" style={{width:"100%", height:"90vh", display:"flex", 
         justifyContent:"center", alignItems:"center",  }} src={home} alt='home' />
 
 

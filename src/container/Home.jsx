@@ -15,8 +15,9 @@ const Home = () => {
   };
 
   return (
-    <>
-      <h1 className="mt-5 text-center main-heading">Productos</h1>
+        <>
+        <div id="products">
+          <h1 className="mt-5 text-center main-heading">Productos</h1>
       <hr />
       <div className="menu-tabs container">
         <div className="menu-tab d-flex justify-content-around">
@@ -73,7 +74,9 @@ const Home = () => {
           </div>
         </div>
       </div>
+      </div>
     </>
+    
   );
 };
 
